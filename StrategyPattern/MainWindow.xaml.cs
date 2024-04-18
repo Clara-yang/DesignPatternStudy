@@ -26,7 +26,6 @@ namespace StrategyPattern
             public int Id { get; set; }
         }
 
-
         double totalPrice = 0;
         CashType type = new CashType();
         public MainWindow()
